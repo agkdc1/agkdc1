@@ -58,7 +58,7 @@ My mission is to design a cloud-native, open, and resilient **"Hospital OS"**—
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/ahn-1pisc">
+  <a href="https://www.linkedin.com/in/choonghyun-ahn-142b9243/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
