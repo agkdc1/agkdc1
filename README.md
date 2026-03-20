@@ -4,38 +4,44 @@
 
 ---
 
-## 🚀 The Vision: Building the "Hospital OS"
+## 🚀 The Vision: Blueprinting the "Hospital OS"
 
-I am an orthopaedic surgeon deeply invested in closing the archaic infrastructure gap in healthcare. While the world chases "Diagnostic AI," medical professionals are burning out due to fragmented, analog operational workflows (handwritten charts, legacy phone systems, manual logistics).
+I am an orthopaedic surgeon deeply invested in bridging the archaic infrastructure gap in healthcare. While the industry chases "Diagnostic AI," medical professionals burn out due to fragmented, analog operations.
 
-My goal is to design a cloud-native, open, and resilient **"Hospital OS"**—not a single application, but an infrastructure that automates the friction of medical practice, allowing doctors to focus on patients.
-
----
-
-## 🛠️ Featured Production Project
-
-### [legacy-integration-ai-assistant](https://github.com/agkdc1/legacy-integration-ai-assistant) (Family Business Testbed)
-
-This project serves as a real-world **Testbed for Hospital Infrastructure Modernization**. The chaos of handwritten orders and analog phone calls in a family logistics business is structurally identical to the operational problems in legacy hospitals. I solved it here first.
-
-* **Problem:** Legacy analog phone network (handwritten order taking) disconnect from modern ERP.
-* **Solution:** Built a GCP-native middleware connecting an Asterisk (VoIP) server with modern ERP data via LLM-powered natural language processing.
-* **Engineering Rigor:**secrets managed via **GCP Secret Manager** for production security.
-* **Why it Matters to Healthcare:** This proves I can build the bridge between "Arcane Analog" and "Cloud Native" without disrupting ongoing operations.
+My mission is to design a cloud-native, open, and resilient **"Hospital OS"**—not a single application, but an infrastructure that automates the friction of medical practice, allowing doctors to focus on patients.
 
 ---
 
-## 🧪 Current Focus & Personal Experiments
+## 🏗️ Core Architectural Testbeds & Projects
 
-* 🧠 **AI Audit Pipeline (Concept):** Designing strict guardrails (Zero-Suggestion models) to audit and validate AI outputs in high-stakes clinical decision-making.
-* 🏗️ **Infrastructure as Code (IaC):** Mastering Terraform to blueprint automated clinical environments.
+### 🔗 1. Bridging Legacy Analog to Cloud Native
+* **Repo:** `agkdc1/AI_DASHBOARD` (Private with Secret Manager)
+* **Context:** Used a family logistics business (with handwritten orders and analog phone networks) as a structurally identical **Testbed for Legacy Hospital Environments**.
+* **Architecture:** Connected an **Asterisk (VoIP)** server with modern ERP data via a **GCP-native LLM pipeline** to automate ordering.
+* **Significance:** Proves capability to modernize "Arcane Analog" workflows into cloud-native automation without disrupting ongoing operations.
+
+### 🧠 2. OsteoTwin: The AI Safety & Audit Pipeline
+* **Repo:** `agkdc1/OsteoTwin` 
+* **Focus:** Clinical Risk Management in the AI Era.
+* **Philosophy:** Designing strict guardrails via **Zero-Suggestion models**. AI should not replace judgment; it must audit, validate, and safeguard human decision-making in high-stakes clinical scenarios to ensure total operational integrity.
+
+### 🤖 3. robot4kid: Automation in Pediatric Care
+* **Repo:** `agkdc1/ROBOT4KID` 
+* **Focus:** Exploring the intersection of robotics, automation, closing gap between IT infrastructure and physical real world.
+
+---
+
+## 🧪 Ongoing Engineering Focus
+
+* 🏗️ **Infrastructure as Code (IaC):** Blueprinting resilient, automated clinical environments using **Terraform**.
+* 🔐 **Zero Trust Architecture:** Applying rigorous security principles to sensitive medical data pipelines.
 
 ---
 
 ## 🏛️ Academic & Engineering Background
 
 * **Seoul National University, College of Medicine (MD)**
-* **Engineering Mindset:** Highly ranked algorithmic problem solver since high school (reached the final selection round of the International Mathematical Olympiad). I apply this algorithmic approach to architectural design.
+* **Engineering Mindset:** Highly ranked algorithmic problem solver since high school. I apply this algorithmic approach to architectural design.
 
 ---
 
