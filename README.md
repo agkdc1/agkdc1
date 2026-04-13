@@ -1,63 +1,45 @@
 # Choonghyun Ahn, MD
 
-### 🩺 Orthopaedic Surgeon | ☁️ Cloud Systems Architect based in Tokyo
+### 🩺 Orthopaedic Surgeon | ⚙️ Systems Architect | Tokyo, Japan
 
 ---
 
-## 🚀 The Vision: Blueprinting the "Hospital OS"
+## 🏗️ Architectural Focus
 
-I am an orthopaedic surgeon deeply invested in bridging the archaic infrastructure gap in healthcare. While the industry chases "Diagnostic AI," medical professionals burn out due to fragmented, analog operations.
+In trauma surgery, systemic failure is not an option. However, modern computing infrastructure—upon which clinical, aerospace, and mission-critical systems increasingly rely—is built on layers of legacy technical debt, non-deterministic latency, and memory-unsafe code. 
 
-My mission is to design a cloud-native, open, and resilient **"Hospital OS"**—not a single application, but an infrastructure that automates the friction of medical practice, allowing doctors to focus on patients.
-
----
-
-## 🏗️ Core Architectural Testbeds & Projects
-
-### 🔗 1. Bridging Legacy Analog to Cloud Native
-* **Repo:** `agkdc1/AI_DASHBOARD` (Private with Secret Manager)
-* **Context:** Used a family logistics business (with handwritten orders and analog phone networks) as a structurally identical **Testbed for Legacy Hospital Environments**.
-* **Architecture:** Connected an **Asterisk (VoIP)** server with modern ERP data via a **GCP-native LLM pipeline** to automate ordering.
-* **Significance:** Proves capability to modernize "Arcane Analog" workflows into cloud-native automation without disrupting ongoing operations.
-
-### 🧠 2. OsteoTwin: The AI Safety & Audit Pipeline
-* **Repo:** `agkdc1/OsteoTwin` 
-* **Focus:** Clinical Risk Management in the AI Era.
-* **Philosophy:** Designing strict guardrails via **Zero-Suggestion models**. AI should not replace judgment; it must audit, validate, and safeguard human decision-making in high-stakes clinical scenarios to ensure total operational integrity.
-
-### 🤖 3. robot4kid: Automation in Pediatric Care
-* **Repo:** `agkdc1/ROBOT4KID` 
-* **Focus:** Exploring the intersection of robotics, automation, closing gap between IT infrastructure and physical real world.
+My engineering focus is on re-architecting the foundations of high-assurance systems to guarantee deterministic, mathematically proven execution at the hardware boundary. 
 
 ---
 
-## 🧪 Ongoing Engineering Focus
+## 🔬 Current Project: Signet OS
 
-* 🏗️ **Infrastructure as Code (IaC):** Blueprinting resilient, automated clinical environments using **Terraform**.
-* 🔐 **Zero Trust Architecture:** Applying rigorous security principles to sensitive medical data pipelines.
+I am currently developing and open-sourcing **Signet**, a capability-based microkernel designed for mission-critical environments and isolated execution architectures.
 
----
-
-## 🏛️ Academic & Engineering Background
-
-* **Seoul National University, College of Medicine (MD)**
-* **Engineering Mindset:** Highly ranked algorithmic problem solver since high school. I apply this algorithmic approach to architectural design.
+* **Repository:** `agkdc1/signet-kernel` (Apache 2.0)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Stack & Methodologies
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/RISC--V-2D303E?style=for-the-badge&logo=riscv&logoColor=white" alt="RISC-V" />
+  <img src="https://img.shields.io/badge/Formal_Verification-Kani_/_Coq-005C84?style=for-the-badge" alt="Formal Verification" />
 </p>
 
 ---
 
-<p align="center">
+## 🏛️ Background
+
+* **University of Tokyo, Department of Orthopaedic Surgery**
+* **Seoul National University, College of Medicine (MD)**
+* **Seoul Science High School (SSHS)**
+* **Approach:** Applying the zero-tolerance constraints of the operating room to the design of systems architecture and compiler theory.
+
+---
+
+<p align="left">
   <a href="https://www.linkedin.com/in/choonghyun-ahn-142b9243/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
