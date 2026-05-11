@@ -34,7 +34,6 @@ I am currently developing and open-sourcing **Signet**, a capability-based micro
 
 * **University of Tokyo, Department of Orthopaedic Surgery**
 * **Seoul National University, College of Medicine (MD)**
-* **Seoul Science High School (SSHS)**
 * **Approach:** Applying the zero-tolerance constraints of the operating room to the design of systems architecture and compiler theory.
 
 ---
